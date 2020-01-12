@@ -1,4 +1,4 @@
 require './character'
 
-class Grong < Character
+class Grongi < Character
 end
